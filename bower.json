@@ -1,0 +1,27 @@
+{
+  "name": "awesome-buttons",
+  "description": "Awesome up-to-date buttons elements.",
+  "keywords": [
+    "buttons",
+    "element-collection"
+  ],
+  "authors": [
+    "The StartPolymer Project Authors (https://github.com/StartPolymer/authors)"
+  ],
+  "license": "https://github.com/StartPolymer/license",
+  "dependencies": {
+    "iron-collapse-button": "jifalops/iron-collapse-button",
+    "paper-button": "PolymerElements/paper-button",
+    "paper-fab": "PolymerElements/paper-fab",
+    "paper-fab-speed-dial": "pomber/paper-fab-speed-dial",
+    "paper-fab-transitions": "GabiAxel/paper-fab-transitions",
+    "paper-chip": "bendavis78/paper-chip",
+    "paper-icon-button": "PolymerElements/paper-icon-button",
+    "paper-menu-button": "PolymerElements/paper-menu-button",
+    "paper-radio-button": "PolymerElements/paper-radio-button",
+    "paper-toggle-button": "PolymerElements/paper-toggle-button",
+    "social-button": "1000ch/social-button",
+    "transburger-icon": "kcmr/transburger-icon"
+  },
+  "private": true
+}
