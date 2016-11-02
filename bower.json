@@ -8,7 +8,7 @@
   "authors": [
     "The StartPolymer Project Authors (https://github.com/StartPolymer/authors)"
   ],
-  "license": "https://github.com/StartPolymer/license",
+  "license": "MIT",
   "dependencies": {
     "iron-collapse-button": "jifalops/iron-collapse-button",
     "paper-button": "PolymerElements/paper-button",
